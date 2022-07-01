@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on project called Learning Management System backend using Spring Framework
-- 🌱 I’m currently learning Spring Security, Spring Data JPA
+- 🔭 I’m currently working on a Full Stack Web Application that sends user an email reminder/ sms reminder
+- 🌱 I’m understanding Spring Security features, 
 
