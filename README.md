@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on a Full Stack Web Application that sends user an email reminder/ sms reminder
 - 🌱 I’m using Spring Boot as backend, Spring Security as authentication framework, HTML, CSS and Thymleaf as front end technology
+- And BootStrap V5 is really Cool!
 
