@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on a Full Stack Web Application that sends user an email reminder/ sms reminder
-- 🌱 I’m using Spring Boot as backend, Spring Security as authentication framework, HTML, CSS and Thymleaf as front end technology
-- And BootStrap V5 is really Cool!
+- 🔭 I'm currently working on Social Networking API with Notification and Feed System 
+- 🌱 This project is a Social Networking REST API built using Java and Spring Boot, designed to facilitate user interaction similar to platforms like LinkedIn. The API enables users to find and connect with each other, view activity feeds, and receive time insensitive notifications. 
+Key features include:
+
+User Management, Feed System, Connection Management, Notification Service and Security to keep endpoints protected. 
 
